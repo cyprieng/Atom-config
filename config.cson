@@ -1,0 +1,22 @@
+"*":
+  core:
+    closeDeletedFileTabs: true
+    telemetryConsent: "no"
+  editor:
+    fontSize: 16
+    softWrap: true
+    tabType: "soft"
+  "exception-reporting":
+    userId: "79cc9505-f751-48c6-b299-ae2ef3104aa9"
+  "grammar-token-limit":
+    maxTokensPerLine: 99999
+  "linter-csslint":
+    disableTimeout: true
+  "linter-jshint": {}
+  "linter-ui-default":
+    panelHeight: 174
+    showPanel: true
+  minimap:
+    disablePythonDocLinks: true
+  welcome:
+    showOnStartup: false

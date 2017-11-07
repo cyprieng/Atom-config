@@ -1,0 +1,60 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "/private/var/folders/77/p6txg47960z5d7c_3qgh1dgw0000gn/T/d-11729-6240-1j7ikoo/package.tgz",
+        "scope": null,
+        "escapedName": null,
+        "name": null,
+        "rawSpec": "/private/var/folders/77/p6txg47960z5d7c_3qgh1dgw0000gn/T/d-11729-6240-1j7ikoo/package.tgz",
+        "spec": "/private/var/folders/77/p6txg47960z5d7c_3qgh1dgw0000gn/T/d-11729-6240-1j7ikoo/package.tgz",
+        "type": "local"
+      },
+      "/private/var/folders/77/p6txg47960z5d7c_3qgh1dgw0000gn/T/apm-install-dir-11729-6240-1hyp7yy"
+    ]
+  ],
+  "_from": "../d-11729-6240-1j7ikoo/package.tgz",
+  "_id": "grammar-token-limit@0.1.1",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/grammar-token-limit",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "/private/var/folders/77/p6txg47960z5d7c_3qgh1dgw0000gn/T/d-11729-6240-1j7ikoo/package.tgz",
+    "scope": null,
+    "escapedName": null,
+    "name": null,
+    "rawSpec": "/private/var/folders/77/p6txg47960z5d7c_3qgh1dgw0000gn/T/d-11729-6240-1j7ikoo/package.tgz",
+    "spec": "/private/var/folders/77/p6txg47960z5d7c_3qgh1dgw0000gn/T/d-11729-6240-1j7ikoo/package.tgz",
+    "type": "local"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "file:../d-11729-6240-1j7ikoo/package.tgz",
+  "_shasum": "c36d95cdac0f08e86c0f7216fa642463ef386144",
+  "_shrinkwrap": null,
+  "_spec": "/private/var/folders/77/p6txg47960z5d7c_3qgh1dgw0000gn/T/d-11729-6240-1j7ikoo/package.tgz",
+  "_where": "/private/var/folders/77/p6txg47960z5d7c_3qgh1dgw0000gn/T/apm-install-dir-11729-6240-1hyp7yy",
+  "bugs": {
+    "url": "https://github.com/postcasio/atom-grammar-token-limit/issues"
+  },
+  "dependencies": {},
+  "description": "Change Atom's token limit for syntax highlighting.",
+  "devDependencies": {},
+  "engines": {
+    "atom": ">=0.152.0"
+  },
+  "homepage": "https://github.com/postcasio/atom-grammar-token-limit#readme",
+  "license": "MIT",
+  "main": "./lib/grammar-token-limit",
+  "name": "grammar-token-limit",
+  "optionalDependencies": {},
+  "readme": "# grammar-token-limit package\n\nChange Atom's token limit for syntax highlighting.\n\n## Warning\n\nAtom limits the number of tokens that will be syntax highlighted on a line for performance reasons. Be careful when increasing this limit.\n",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/postcasio/atom-grammar-token-limit.git"
+  },
+  "version": "0.1.1"
+}
